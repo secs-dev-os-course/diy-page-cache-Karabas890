@@ -1,0 +1,10 @@
+^C:\УЧЕБА\ОС2\DIY-PAGE-CACHE-KARABAS890\BUILD\CMAKEFILES\88F376B640B9DDFAB77C5087488C8102\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Учеба/ОС2/diy-page-cache-Karabas890 -BC:/Учеба/ОС2/diy-page-cache-Karabas890/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Учеба/ОС2/diy-page-cache-Karabas890/build/my-project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
