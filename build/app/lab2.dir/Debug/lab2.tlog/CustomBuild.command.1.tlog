@@ -1,0 +1,10 @@
+^C:\УЧЕБА\ОС2\DIY-PAGE-CACHE-KARABAS890\APP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Учеба/ОС2/diy-page-cache-Karabas890 -BC:/Учеба/ОС2/diy-page-cache-Karabas890/build --check-stamp-file C:/Учеба/ОС2/diy-page-cache-Karabas890/build/app/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Учеба\ОС2\diy-page-cache-Karabas890\build\CMakeFiles\88f376b640b9ddfab77c5087488c8102\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0CA7B03F-14B2-3E29-AF91-FA2E15F1D752}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

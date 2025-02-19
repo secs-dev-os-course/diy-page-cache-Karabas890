@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "mutex": "cpp",
+        "unordered_map": "cpp",
+        "deque": "cpp",
+        "cstdlib": "cpp",
+        "iostream": "cpp"
+    }
+}

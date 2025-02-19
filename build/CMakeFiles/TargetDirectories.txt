@@ -1,0 +1,7 @@
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/CMakeFiles/ALL_BUILD.dir
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/CMakeFiles/ZERO_CHECK.dir
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/app/CMakeFiles/cache.dir
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/app/CMakeFiles/app.dir
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/app/CMakeFiles/io-thpt-writeApp.dir
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/app/CMakeFiles/io-thpt-writeModApp.dir
+C:/Учеба/ОС2/diy-page-cache-Karabas890/build/app/CMakeFiles/ALL_BUILD.dir
